@@ -1,4 +1,4 @@
-###About Me
+### About Me
 
 Throughout my career, I've seen how technology, and more specifically, software, is used to solve real world business problems. It was through my repeated exposure to the solutions software provided that made me realize that engineering software solutions to real world problems is where my true passion lied. 
 
