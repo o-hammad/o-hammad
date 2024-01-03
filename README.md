@@ -1,12 +1,8 @@
 ### About Me
 
-Throughout my career, I've seen how technology, and more specifically, software, is used to solve real world business problems. It was through my repeated exposure to the solutions software provided that made me realize that engineering software solutions to real world problems is where my true passion lied. 
+Driven by a passion for leveraging technology to solve real-world business challenges, I embarked on a transformative journey in software engineering. Graduating with distinction from the NYU Master's Bridge Program laid the foundation for my theoretical understanding, leading me to the App Academy's immersive 16-week program. There, I honed my proficiency in coding languages such as Ruby and Javascript, along with frameworks like Rails, React, and the MERN Stack.
 
-I started my journey into the Software Engineering industry by completing the NYU Master's Bridge Program with distinction, ultimately leading to my acceptance into their Masters in Computer Science Program. After consulting with mentors in the industry, I decided to pursue the boot camp route via App Academy where I could build the practical skills necessary to become a successful Software Engineer.
-
-After App Academy's intensive 16 week in person program, I became proficient in coding languages such as Ruby and Javascript and frameworks such as Rails, React and the MERN Stack. I worked on projects both individually and in a group which equipped me the skills to work collaboratively and solidify my skills using the Git workflow.
-
-In conclusion, NYU's Master's Bridge program provided me the theoretical background, whereas App Academy provided the practical. I would love to discuss my skills and qualifications with you further, so please feel free to email me at ohammad@gwu.edu
+My experiences include both individual and collaborative projects, equipping me with the skills to work seamlessly within teams and solidify my proficiency in the Git workflow. I am excited about the opportunity to bring my evolving skill set, rooted in both theoretical knowledge and practical application, to contribute meaningfully to [Company Name]. I look forward to discussing how my background aligns with the needs of your software engineering team. Feel free to reach out to me at ohammad@gwu.edu.
 
 <!--
 **o-hammad/o-hammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
