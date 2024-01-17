@@ -2,7 +2,7 @@
 
 Driven by a passion for leveraging technology to solve real-world business challenges, I embarked on a transformative journey in software engineering. Graduating with distinction from the NYU Master's Bridge Program laid the foundation for my theoretical understanding, leading me to the App Academy's immersive 16-week program. There, I honed my proficiency in coding languages such as Ruby and Javascript, along with frameworks like Rails, React, and the MERN Stack.
 
-My experiences include both individual and collaborative projects, equipping me with the skills to work seamlessly within teams and solidify my proficiency in the Git workflow. I am excited about the opportunity to bring my evolving skill set, rooted in both theoretical knowledge and practical application, to contribute meaningfully to [Company Name]. I look forward to discussing how my background aligns with the needs of your software engineering team. Feel free to reach out to me at ohammad@gwu.edu.
+My experiences include both individual and collaborative projects, equipping me with the skills to work seamlessly within teams and solidify my proficiency in the Git workflow. I am excited about the opportunity to bring my evolving skill set, rooted in both theoretical knowledge and practical application, to contribute meaningfully to your company. I look forward to discussing how my background aligns with the needs of your software engineering team. Feel free to reach out to me at ohammad@gwu.edu.
 
 <!--
 **o-hammad/o-hammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
